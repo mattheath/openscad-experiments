@@ -1,3 +1,3 @@
 Replacement door handle for interior door.
 
-![Door handle](render.pngS)
+![Door handle](render.png)
